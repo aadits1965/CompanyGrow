@@ -50,8 +50,8 @@ npm start
 
 ## 📦 Tech Stack
 
-- **Frontend:** React.js, React Router, Axios, Chart.js, jsPDF
-- **Backend:** Express.js, Node.js
+- **Frontend:** React.js, React Router, Axios, Chart.js and jsPDF
+- **Backend:** Express.js and Node.js
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT-based authentication
 - **Payments:** Stripe API Integration
@@ -72,7 +72,3 @@ npm start
 - **Exportable PDF reports generated with jsPDF**
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
