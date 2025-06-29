@@ -32,6 +32,22 @@ npm start
 
 ---
 
+👩‍💻 **Dummy User Credentials**
+
+| Username (Email)                                  | Password      | Role     |
+| ------------------------------------------------- | ------------- | -------- |
+| [emily.johnson@example.com](mailto:emily.johnson@example.com)   | `password123` | employee |
+| [michael.thompson@example.com](mailto:michael.thompson@example.com) | `password123` | manager  |
+| [james.walker@example.com](mailto:james.walker@example.com)     | `password123` | admin    |
+
+> **Note:** These credentials are for development and demo purposes only. Always use strong, unique passwords in production.
+
+---
+
+Initializing with dummy data ensures a smooth onboarding experience for new developers and showcases the platform’s features.
+
+---
+
 ## 🧩 Features
 
 - **👨‍💼 Role-based access:** Admin, Manager, Employee
